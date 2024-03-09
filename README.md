@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `starter-typescript-template` repository serves as a comprehensive starting point for Node.js projects using TypeScript. This template includes a pre-configured setup to get your TypeScript project up and running quickly with best practices in mind. It integrates modern development tools to facilitate a smooth development workflow, allowing developers to focus on writing their application code right away.
+The `starter-typescript-template` repository serves as a comprehensive starting point for Node.js projects using TypeScript. This template includes a pre-configured setup to get your TypeScript project up and running quickly with best practices in mind. It integrates modern development tools to facilitate a smooth development workflow, allowing developers to focus on writing their application code right away, I created a [blog post](https://medium.com/gitconnected/easy-typescript-project-setup-89088bc705e7) out of this project in case you want to check it.
 
 ## Features
 
