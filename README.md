@@ -18,7 +18,7 @@ The `starter-typescript-template` repository serves as a comprehensive starting 
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/starter-typescript-template.git
+git clone https://github.com/tomasborquez/starter-typescript-template.git
 cd starter-typescript-template
 ```
 
